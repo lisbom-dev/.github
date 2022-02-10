@@ -1,2 +1,1 @@
-# .github
-ÇUÇ the best! 🥰
+### ÇUÇ the best! 🥰
