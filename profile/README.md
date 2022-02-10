@@ -1,4 +1,5 @@
 ## <p align="center"> ÇUÇ the best<p>
+<img width="100%" src="https://user-images.githubusercontent.com/76446913/153468707-2b084e8f-b39d-4e9b-ae52-ea9c0482794d.png">
 
 <!--
 **Here are some ideas to get you started:**
