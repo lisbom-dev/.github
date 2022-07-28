@@ -32,5 +32,13 @@
 | <br> <img src="https://avatars.githubusercontent.com/u/82103714?v=4" alt="kaio profile photo" style="height: 100px; width:100px;"/> <h3 align = "center"> [Kaio Fabiano](https://github.com/kaio-fabiano) </h3> <p> Full Stack Developer </p> | <br> <img src="https://avatars.githubusercontent.com/u/53953664?v=4" alt="davi profile photo" style="height: 100px; width:100px;"/> <h3 align = "center"> [Davi Romão](https://github.com/daviromao) </h3> <p> Backend Developer </p> | <br> <img src="https://avatars.githubusercontent.com/u/67091886?v=4" alt="yan profile photo" style="height: 100px; width:100px;"/> <h3 align = "center"> [Yan Lucas](https://github.com/zogss) </h3> <p> Backend Developer </p>
 |---|---|---|
 
+##
+<div align = "center">
+<h2> Wanna be a collaborator? </h2>
+  <h3> Send us an email declaring your skills and receive your challenge! </h3>
+<a href="mailto:manuelnascimento5589@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/manuelnascimento5589@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:manuelnascimento5589@gmail.com"/>
+</a>
+  </div>
 
 
