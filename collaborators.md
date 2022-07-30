@@ -30,8 +30,8 @@
 
 <h2> Full Stack Developers </h2>
 
-|<br> <img src="https://avatars.githubusercontent.com/u/82103714?v=4" alt="kaio profile photo" style="height: 100px; width:100px;"/> <h3 align = "center"> [Kaio Fabiano](https://github.com/kaio-fabiano) </h3> <p> Full Stack Developer </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" /> <img height="30" width="30" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_64px_default.png" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="40" /> | <br> <img src="https://avatars.githubusercontent.com/u/104801870?v=4" alt="lucas profile photo" style="height: 100px; width:100px;"/> <h3 align = "center"> [Lucas Marques](https://github.com/Lucas-Marques-Leao) </h3> <p> Full Stack Developer </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/>|
-|---|---|
+| <br> <img src="https://avatars.githubusercontent.com/u/104801870?v=4" alt="lucas profile photo" style="height: 100px; width:100px;"/> <h3 align = "center"> [Lucas Marques](https://github.com/Lucas-Marques-Leao) </h3> <p> Full Stack Developer </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/>|
+|---|
 
 ##
 
